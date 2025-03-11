@@ -6,6 +6,6 @@ int main(void) {
   cout << "Hello, World\n";
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run this  \n";
-  cout << "Testing Webhook Trigger!" << endl; // <-- Move inside main()
+  cout << "Testing Webhook Trigger!\n"; // <-- Move inside main()
   return 0;
 }
